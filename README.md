@@ -8,4 +8,4 @@ All the steps are mentioned in the project Source file itself. But for better un
 3. Then you need to set a name for the image which is going to be Encrypted/Decrypted.
 4. Final Encrypted/Decrypted Image is Saved in the folder/workspace where this Source Program is located.
 
-* Happy Coding *
+* Happy Coding 
